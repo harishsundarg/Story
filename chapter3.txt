@@ -1,0 +1,1 @@
+If you specified the --install-space option when your workspace initially, you should specify it again when rebuilding your workspace
